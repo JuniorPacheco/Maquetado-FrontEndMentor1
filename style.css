@@ -75,6 +75,16 @@ img {
     font-size: 1.6rem;
 }
 
+@media (min-width: 700px) {
+    .header__tittle {
+        font-size: 3rem;
+    }
+
+    .header__subtittle {
+        font-size: 3rem;
+    }
+}
+
 /* Main */
 
 .main {
